@@ -1,18 +1,14 @@
 <div align="center">
 
-<!-- ========================================================= -->
-<!--                    RETRO VIDEO HEADER                     -->
-<!-- ========================================================= -->
-
-<video autoplay loop muted playsinline width="100%">
-  <source src="./retro-video.mp4" type="video/mp4">
-</video>
+<!-- RETRO ANIMATED BANNER -->
+<img src="./retro.gif" width="100%" alt="Retro animated banner">
 
 <br><br>
 
-<!-- ========================================================= -->
-<!--                         TITLE                             -->
-<!-- ========================================================= -->
+<!-- PROFILE PHOTO -->
+<img src="./profile.png" width="180" alt="Misbah">
+
+<br><br>
 
 # 🖥️ ♡ MISBAH.EXE ♡
 
@@ -26,6 +22,12 @@
 ╭────────────────────────────────────────────╮
 │                                            │
 │       💾 WELCOME TO MY PROFILE 💾          │
+│                                            │
+│       STATUS: ● ONLINE                     │
+│       MODE:   RETRO                        │
+│       MOOD:   ✨ CREATIVE                  │
+│                                            │
+╰────────────────────────────────────────────╯│       💾 WELCOME TO MY PROFILE 💾          │
 │                                            │
 │       STATUS : ● ONLINE                    │
 │       MODE   : RETRO                       │
