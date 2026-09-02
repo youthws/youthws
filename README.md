@@ -1,18 +1,20 @@
 <div align="center">
 
-<!-- ============================= -->
-<!-- 🎬 RETRO VIDEO -->
-<!-- ============================= -->
+<!-- ================================= -->
+<!-- 🎬 RETRO GIF BANNER -->
+<!-- ================================= -->
 
-<video autoplay loop muted playsinline width="100%">
-  <source src="./retro-video.mp4" type="video/mp4">
-</video>
+<img src="./retro-video.gif" width="100%" alt="Retro animated banner">
 
 <br><br>
 
-<!-- ============================= -->
-<!-- 🖥️ TITLE -->
-<!-- ============================= -->
+<!-- ================================= -->
+<!-- 🖼️ PROFILE PICTURE -->
+<!-- ================================= -->
+
+<img src="./profile.png" width="180" alt="Misbah">
+
+<br><br>
 
 # 🖥️ ♡ MISBAH.EXE ♡
 
@@ -30,7 +32,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&duration=3000&pause=1000&color=9B7EDE&center=true&vCenter=true&width=600&lines=Welcome+to+Misbah.exe+%E2%9C%A8;Creative+Developer+%F0%9F%92%BB;Building+cool+digital+experiences+%F0%9F%8E%A8;Exploring+3D+%F0%9F%8C%8C+AI+%F0%9F%A4%96+and+Web+%F0%9F%8C%90" alt="Typing animation">
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&duration=3000&pause=1000&color=9B7EDE&center=true&vCenter=true&width=650&lines=Welcome+to+Misbah.exe+%E2%9C%A8;Creative+Developer+%F0%9F%92%BB;Building+cool+digital+experiences+%F0%9F%8E%A8;Exploring+3D+%F0%9F%8C%8C+AI+%F0%9F%A4%96+and+Web+%F0%9F%8C%90" alt="Typing animation">
 
 </div>
 
