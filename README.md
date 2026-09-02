@@ -1,27 +1,36 @@
-<table>
-<tr>
+<div align="center">
 
-<td width="65%">
+<!-- ========================================================= -->
+<!--                    RETRO VIDEO HEADER                     -->
+<!-- ========================================================= -->
 
-### 👋 Hello there!
+<video autoplay loop muted playsinline width="100%">
+  <source src="./retro-video.mp4" type="video/mp4">
+</video>
 
-I'm **Misbah**, a passionate developer who enjoys turning creative ideas into interactive digital experiences.
+<br><br>
 
-I love experimenting with:
+<!-- ========================================================= -->
+<!--                         TITLE                             -->
+<!-- ========================================================= -->
 
-🎨 Creative web design  
-🌐 Modern web development  
-🕹️ Interactive experiences  
-🧊 3D graphics  
-🤖 Artificial Intelligence  
+# 🖥️ ♡ MISBAH.EXE ♡
 
-</td>
+### ✨ Hi! I'm Misbah ✨
 
-<td width="35%" align="center">
+`💻 DEVELOPER`　`🎀 CREATIVE CODER`　`🪄 DIGITAL DREAMER`
 
-<img src="./profile.png" width="220" alt="Misbah">
+<br>
 
-</td>
-
-</tr>
-</table>
+```text
+╭────────────────────────────────────────────╮
+│                                            │
+│       💾 WELCOME TO MY PROFILE 💾          │
+│                                            │
+│       STATUS : ● ONLINE                    │
+│       MODE   : RETRO                       │
+│       MOOD   : ✨ CREATIVE                │
+│                                            │
+│       SYSTEM READY...                      │
+│                                            │
+╰────────────────────────────────────────────╯
