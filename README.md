@@ -1,31 +1,27 @@
-<div align="center">
+<table>
+<tr>
 
-<!-- RETRO ANIMATED BANNER -->
-<img src="./retro.gif" width="100%" alt="Retro animated banner">
+<td width="65%">
 
-<br><br>
+### 👋 Hello there!
 
-<!-- PROFILE PHOTO -->
-<img src="./profile.png" width="180" alt="Misbah">
+I'm **Misbah**, a passionate developer who enjoys turning creative ideas into interactive digital experiences.
 
-<br><br>
+I love experimenting with:
 
-# 🖥️ ♡ MISBAH.EXE ♡
+🎨 Creative web design  
+🌐 Modern web development  
+🕹️ Interactive experiences  
+🧊 3D graphics  
+🤖 Artificial Intelligence  
 
-### ✨ Hi! I'm Misbah ✨
+</td>
 
-`💻 DEVELOPER`　`🎀 CREATIVE CODER`　`🪄 DIGITAL DREAMER`
+<td width="35%" align="center">
 
-<br>
+<img src="./profile.png" width="220" alt="Misbah">
 
-```text
-╭────────────────────────────────────────────╮
-│                                            │
-│       💾 WELCOME TO MY PROFILE 💾          │
-│                                            │
-│       STATUS: ● ONLINE                     │
-│       MODE:   RETRO                        │
-│       MOOD:   ✨ CREATIVE                  │
-│                                            │
-╰────────────────────────────────────────────╯│                                            │
-╰────────────────────────────────────────────╯
+</td>
+
+</tr>
+</table>
