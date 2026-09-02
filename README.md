@@ -2,9 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=20,24,26&text=♡%20MISBAH.EXE%20♡&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
 
-<br>
+<img src="./profile.png" width="180" height="180">
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=22&duration=2500&pause=1000&color=FFB6D9&center=true&vCenter=true&width=600&lines=Hi!+I'm+Misbah+%E2%9C%A8;Creative+Developer+%F0%9F%8E%80;Welcome+to+my+little+corner+of+GitHub+%F0%9F%92%97"/>
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com/?..." />font=Courier+Prime&size=22&duration=2500&pause=1000&color=FFB6D9&center=true&vCenter=true&width=600&lines=Hi!+I'm+Misbah+%E2%9C%A8;Creative+Developer+%F0%9F%8E%80;Welcome+to+my+little+corner+of+GitHub+%F0%9F%92%97"/>
 
 <br><br>
 
