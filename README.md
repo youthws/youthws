@@ -1,8 +1,18 @@
 <div align="center">
 
-<img src="./profile.png" width="180" alt="Misbah's profile picture">
+<!-- ============================= -->
+<!-- 🎬 RETRO VIDEO -->
+<!-- ============================= -->
+
+<video autoplay loop muted playsinline width="100%">
+  <source src="./retro-video.mp4" type="video/mp4">
+</video>
 
 <br><br>
+
+<!-- ============================= -->
+<!-- 🖥️ TITLE -->
+<!-- ============================= -->
 
 # 🖥️ ♡ MISBAH.EXE ♡
 
@@ -12,11 +22,15 @@
 
 <br>
 
-╭──────────────────────────────────────╮
+╭──────────────────────────────────────────────╮
 <br>
 💾 **WELCOME TO MY LITTLE CORNER OF GITHUB** 💾
 <br>
-╰──────────────────────────────────────╯
+╰──────────────────────────────────────────────╯
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&duration=3000&pause=1000&color=9B7EDE&center=true&vCenter=true&width=600&lines=Welcome+to+Misbah.exe+%E2%9C%A8;Creative+Developer+%F0%9F%92%BB;Building+cool+digital+experiences+%F0%9F%8E%A8;Exploring+3D+%F0%9F%8C%8C+AI+%F0%9F%A4%96+and+Web+%F0%9F%8C%90" alt="Typing animation">
 
 </div>
 
@@ -32,7 +46,8 @@
 
 <table>
 <tr>
-<td width="65%">
+
+<td width="65%" valign="top">
 
 ### 👋 Hello there!
 
@@ -50,15 +65,17 @@ I love experimenting with:
 
 > 💭 **My goal:** build things that are useful, creative and fun.
 
-</td>
+<br>
 
-<td width="35%" align="center">
+### 💻 What I Like
 
 ```text
-╭──────────────╮
-│   ♡ HELLO ♡  │
-│              │
-│   MISBAH     │
-│      ✦       │
-│   ✧  ✧  ✧    │
-╰──────────────╯
+┌──────────────────────────────────────┐
+│                                      │
+│   🎨 DESIGN                          │
+│   💻 DEVELOPMENT                     │
+│   🌌 3D EXPERIENCES                  │
+│   🤖 AI PROJECTS                     │
+│   ✨ CREATIVE EXPERIMENTS            │
+│                                      │
+└──────────────────────────────────────┘
