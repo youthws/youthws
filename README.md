@@ -10,28 +10,42 @@
 <td width="60%">
 
 
+<table>
+<tr>
+<td width="60%">
+
+
 const misbah = {
   role: "Creative Developer",
   location: "Pakistan 🇵🇰",
 
-  building: {
+  building: [
     "Interactive Web Experiences",
     "Cinematic Portfolios",
-    "Fun Side Projects",
-  },
+    "Fun Side Projects"
+  ],
 
-  learning: {
+  learning: [
     "Advanced JavaScript",
     "3D Graphics (Three.js)",
-    "Artificial Intelligence",
-  },
+    "Artificial Intelligence"
+  ],
 
   tech: {
-    frontend: ("HTML", "CSS", "JavaScript"),
-    interests: ("Design", "3D", "AI"),
+    frontend: ["HTML", "CSS", "JavaScript"],
+    interests: ["Design", "3D", "AI"]
   }
 };
 
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://raw.githubusercontent.com/youthws/youthws/main/avatar.png" width="220" alt="Misbah" />
+
+</td>
+</tr>
+</table>
 
 </td>
 <td width="40%" align="center">
