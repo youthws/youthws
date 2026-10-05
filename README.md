@@ -14,21 +14,21 @@ const misbah = {
   role: "Creative Developer",
   location: "Pakistan 🇵🇰",
 
-  building: [
+  building: {
     "Interactive Web Experiences",
     "Cinematic Portfolios",
-    "Fun Side Projects"
-  ],
+    "Fun Side Projects",
+  },
 
-  learning: [
+  learning: {
     "Advanced JavaScript",
     "3D Graphics (Three.js)",
-    "Artificial Intelligence"
-  ],
+    "Artificial Intelligence",
+  },
 
   tech: {
-    frontend: ["HTML", "CSS", "JavaScript"],
-    interests: ["Design", "3D", "AI"]
+    frontend: ("HTML", "CSS", "JavaScript"),
+    interests: ("Design", "3D", "AI"),
   }
 };
 
