@@ -9,7 +9,7 @@
 <tr>
 <td width="60%">
 
-js
+
 const misbah = {
   role: "Creative Developer",
   location: "Pakistan 🇵🇰",
