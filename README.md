@@ -13,7 +13,7 @@
 
 💻 What I Build
 
-I’m a Computer Science student and creative developer from Pakistan 🇵🇰 who enjoys turning ideas into interactive digital experiences.
+I’m a Computer Science student and creative developer who enjoys turning ideas into interactive digital experiences.
 
 I build:
 
