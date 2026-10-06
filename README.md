@@ -15,27 +15,25 @@
 <td width="60%">
 
 
-const misbah = {
-  role: "Creative Developer",
-  location: "Pakistan 🇵🇰",
 
-  building: [
-    "Interactive Web Experiences",
-    "Cinematic Portfolios",
-    "Fun Side Projects"
-  ],
+👋 Hey, I'm Misbah
 
-  learning: [
-    "Advanced JavaScript",
-    "3D Graphics (Three.js)",
-    "Artificial Intelligence"
-  ],
+<table> <tr> <td width="60%">
 
-  tech: {
-    frontend: ["HTML", "CSS", "JavaScript"],
-    interests: ["Design", "3D", "AI"]
-  }
-};
+💻 What I Build
+
+I’m a Computer Science student and creative developer from Pakistan 🇵🇰 who enjoys turning ideas into interactive digital experiences.
+
+I build:
+
+🌐 Modern React websites
+🎨 Creative and interactive user interfaces
+🕷️ 3D web experiences with Three.js
+🖥️ Creative portfolio websites
+📘 Full-stack applications with Supabase
+🔐 Authentication and database-based apps
+🚀 Deployed web projects using GitHub Pages
+🧪 Experimental and fun side projects
 
 
 </td>
