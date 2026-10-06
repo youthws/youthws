@@ -76,10 +76,10 @@ I build:
 
 ---
 
-## 🏆 GitHub Trophies
+##  Work Vibing
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=youthws&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" />
+  <img src="https://raw.githubusercontent.com/youthws/youthws/main/banner.png" />
 </p>
 
 ---
