@@ -72,9 +72,7 @@ I build:
   <img src="https://streak-stats.demolab.com?user=youthws&theme=radical&hide_border=true&background=0d1117" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youthws&theme=react-dark&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff" width="100%" />
-</p>
+
 
 ---
 
