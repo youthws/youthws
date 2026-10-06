@@ -5,15 +5,6 @@
 
 ## 🎯 About Me
 
-<table>
-<tr>
-<td width="60%">
-
-
-<table>
-<tr>
-<td width="60%">
-
 
 
 👋 Hey, I'm Misbah
