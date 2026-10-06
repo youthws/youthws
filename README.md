@@ -36,14 +36,8 @@ I build:
 </tr>
 </table>
 
-</td>
-<td width="40%" align="center">
 
-<img src="https://raw.githubusercontent.com/youthws/youthws/main/avatar.png" width="220" alt="Misbah" />
 
-</td>
-</tr>
-</table>
 
 > 💭 *"My goal: build things that are useful, creative and fun."*
 
